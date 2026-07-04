@@ -6,7 +6,7 @@ export const Route = createFileRoute("/contact")({
   head: () => ({
     meta: [
       { title: "Contact & Quote — Summit Travel Group" },
-      { name: "description", content: "Request a coach hire quote or speak to our UK team. Call 07425 866205 or email hello@summittravelgroup.co.uk." },
+      { name: "description", content: "Request a coach hire quote or speak to our UK team. Call 07578 252299 or email hello@summittravelgroup.co.uk." },
       { property: "og:title", content: "Contact Summit Travel Group" },
       { property: "og:description", content: "Tell us your route, group size and dates — we'll send a tailored quote." },
     ],
